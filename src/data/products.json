@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Esparragos",
+        "description": "asdasd",
+        "price": "0"
+    },
+    {
+        "id": 2,
+        "name": "Risotto de milanesa",
+        "description": "Risotto con berenjena y queso de cabra",
+        "price": "800"
+    },
+    {
+        "id": 3,
+        "name": "Milanesa",
+        "price": "500",
+        "description": "La mejor milanesa"
+    },
+    {
+        "id": 6,
+        "name": "nuevo",
+        "price": 10,
+        "description": "nuevo"
+    },
+    {
+        "id": 7,
+        "name": "nuevo 2",
+        "price": 40,
+        "description": "nuevo 2"
+    },
+    {
+        "id": 8,
+        "name": "7",
+        "price": 700,
+        "description": "7"
+    },
+    {
+        "id": 9,
+        "name": "8",
+        "price": 88,
+        "description": "",
+        "image": "1663633669007_img_.jpeg"
+    }
+]
